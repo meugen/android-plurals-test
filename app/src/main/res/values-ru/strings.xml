@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="books_count_text">
+        <item quantity="zero">%d книг (zero)</item>
+        <item quantity="one">%d книга (one)</item>
+        <item quantity="two">%d книги (two)</item>
+        <item quantity="few">%d книг (few)</item>
+        <item quantity="many">%d книг (many)</item>
+        <item quantity="other">%d книг (other)</item>
+    </plurals>
+    <plurals name="books_owns_text">
+        <item quantity="zero">%s, у вас нет книг (zero)</item>
+        <item quantity="one">%s, у вас есть одна книга (one)</item>
+        <item quantity="two">%s, у вас есть две книги (two)</item>
+        <item quantity="few">%s, у вас есть нескольно книг (few)</item>
+        <item quantity="many">%s, у вас есть много книг (many)</item>
+        <item quantity="other">%s, у вас есть неизвестное количество книг (other)</item>
+    </plurals>
+</resources>
