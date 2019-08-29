@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="books_count_text">
+        <item quantity="zero">%d books (zero)</item>
+        <item quantity="one">%d book (one)</item>
+        <item quantity="two">%d books (two)</item>
+        <item quantity="few">%d books (few)</item>
+        <item quantity="many">%d books (many)</item>
+        <item quantity="other">%d books (other)</item>
+    </plurals>
+    <plurals name="books_owns_text">
+        <item quantity="zero">%s, you have no books (zero)</item>
+        <item quantity="one">%s, you have one book (one)</item>
+        <item quantity="two">%s, you have two books (two)</item>
+        <item quantity="few">%s, you have few books (few)</item>
+        <item quantity="many">%s, you have many books (many)</item>
+        <item quantity="other">%s, you have other amount of books (other)</item>
+    </plurals>
+</resources>
